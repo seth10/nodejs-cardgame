@@ -1,0 +1,16 @@
+Use a plaintext, human-readable log. Example:
+
+```
+Player 1 joins: Alice
+Player 2 joins: James
+Lobby filled, waiting for ready
+James is ready
+Alice is ready
+Game begins
+Deck shuffled and assembled
+Alice delt 8 cards
+James delt 8 cards
+James has selected a card
+Alice has selected a card
+All players have decided, flipping cards
+```
